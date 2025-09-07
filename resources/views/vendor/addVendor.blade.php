@@ -11,7 +11,7 @@
                     <form class="forms-sample">
                         <div class="form-group
 ">
-                            <label for="exampleInputName1">Name</label>
+                            <label for="exampleInputName1">Vendor Name</label>
                             <input type="text" class="form-control" id="exampleInputName1" placeholder="Name">
                           </div>
                         <div class="form-group">
